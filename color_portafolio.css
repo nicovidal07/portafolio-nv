@@ -1,0 +1,64 @@
+.titulo2 {
+    color: red;
+}
+
+.entidad2 {
+    color: orange;
+}
+
+.promocion2 {
+    color: yellowgreen;
+}
+
+.titulo {
+    background-color: red;
+}
+
+.entidad {
+    background-color: orange;
+}
+
+.promocion {
+    background-color: yellowgreen;
+}
+
+#Descripcion {
+    background-color: burlywood;
+}
+
+h2#Perfil {
+    background-color: aquamarine;
+}
+
+* {
+    background-color: azure;
+}
+
+#Educacion {
+    background-color: darkcyan;
+}
+
+.desc {
+    margin-left: 25px;
+}
+
+.perf {
+    margin-left: 25px;
+}
+
+#imagen {
+    display: block;
+    margin: auto;
+}
+
+#nombre {
+    text-align: center;
+}
+
+#contactar {
+    background-color: hotpink;
+}
+
+#formulario {
+    text-align: justify;
+}
